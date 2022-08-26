@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5,
   .ul-check.success li:before {
     color: #8bc34a; }
   .ul-check.primary li:before {
-    color: #00d2b5; }
+    color: #0b2a5d; }
 
 .select-wrap, .wrap-icon {
   position: relative; }
@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5,
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active {
-      color: #00d2b5;
+      color: #0b2a5d;
       display: inline-block;
       padding: 5px 20px; }
     .site-navbar .site-navigation .site-menu a {
@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5,
         display: inline-block;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
-          color: #00d2b5; }
+          color: #0b2a5d; }
     .site-navbar .site-navigation .site-menu .has-children {
       position: relative; }
       .site-navbar .site-navigation .site-menu .has-children > a {
@@ -1840,7 +1840,7 @@ h1, h2, h3, h4, h5,
 .circle {
   padding: 13px 20px;
   border-radius: 50%;
-  background-color: #00d2b5;
+  background-color: #0b2a5d;
   color: #fff;
   max-height: 50px;
   z-index: 2;
@@ -1852,7 +1852,7 @@ h1, h2, h3, h4, h5,
 .how-it-works.row .col-2::after {
   content: "";
   position: absolute;
-  border-left: 3px solid #00d2b5;
+  border-left: 3px solid #0b2a5d;
   z-index: 1;
 }
 .how-it-works.row .col-2.bottom::after {
@@ -1876,7 +1876,7 @@ h1, h2, h3, h4, h5,
   height: 40px;
 }
 .timeline hr {
-  border-top: 3px solid #00d2b5;
+  border-top: 3px solid #0b2a5d;
   margin: 0;
   top: 17px;
   position: relative;
@@ -1886,7 +1886,7 @@ h1, h2, h3, h4, h5,
   overflow: hidden;
 }
 .timeline .corner {
-  border: 3px solid #00d2b5;
+  border: 3px solid #0b2a5d;
   width: 100%;
   position: relative;
   border-radius: 15px;
@@ -2086,7 +2086,7 @@ form.chat span.spinner {
   animation: loading-bar 2s 1;
   display: block;
   height: 2px;
-  background-color: #22c9b5;
+  background-color: #0b2a5d;
   transition: width 0.2s;
   position: absolute;
   top: 0;
@@ -2525,7 +2525,7 @@ button:hover:before, button:hover:after {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #22d1b5;
+  background-color: #0b2a5d;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -2543,7 +2543,7 @@ button:hover:before, button:hover:after {
 /* Facebook chat button style */
 
 .fb-root iframe html body div div div div div div{
-  background-color: #22d1b5;
+  background-color: #0b2a5d;
 
 }
 
