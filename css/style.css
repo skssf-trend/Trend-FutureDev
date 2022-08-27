@@ -1840,7 +1840,7 @@ h1, h2, h3, h4, h5,
 .circle {
   padding: 13px 20px;
   border-radius: 50%;
-  background-color: #0b2a5d;
+  background-color: gray;
   color: #fff;
   max-height: 50px;
   z-index: 2;
@@ -1852,7 +1852,7 @@ h1, h2, h3, h4, h5,
 .how-it-works.row .col-2::after {
   content: "";
   position: absolute;
-  border-left: 3px solid #0b2a5d;
+  border-left: 3px solid gray;
   z-index: 1;
 }
 .how-it-works.row .col-2.bottom::after {
@@ -1876,7 +1876,7 @@ h1, h2, h3, h4, h5,
   height: 40px;
 }
 .timeline hr {
-  border-top: 3px solid #0b2a5d;
+  border-top: 3px solid black;
   margin: 0;
   top: 17px;
   position: relative;
@@ -1886,7 +1886,7 @@ h1, h2, h3, h4, h5,
   overflow: hidden;
 }
 .timeline .corner {
-  border: 3px solid #0b2a5d;
+  border: 3px solid b;
   width: 100%;
   position: relative;
   border-radius: 15px;
@@ -2594,7 +2594,7 @@ button:hover:before, button:hover:after {
   font-family: Poppins-Regular;
   font-size: 15px;
   line-height: 1.6;
-  color: #22d1b5;
+  color: black;
 }
 
 /*==================================================================
