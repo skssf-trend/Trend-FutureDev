@@ -325,7 +325,7 @@ button.ui-button::-moz-focus-inner {
 .ui-state-focus a:hover,
 .ui-state-focus a:link,
 .ui-state-focus a:visited {
-	color: #1d5987;
+	color: #aaaaaa;
 	text-decoration: none;
 }
 .ui-state-active,
