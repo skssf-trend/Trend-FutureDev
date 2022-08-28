@@ -1240,9 +1240,9 @@ h1, h2, h3, h4, h5,
     position: relative;
     border-radius: 50%;
     display: inline-block;
-    background-color: #8b8b8b;
-    -webkit-box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4);
-    box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4); }
+    background-color: #222222;
+    -webkit-box-shadow: 0 4px 20px -5px rgba(237, 243, 242, 0.4);
+    box-shadow: 0 4px 20px -5px rgba(237, 243,242, 0.4); }
     .unit-4 .unit-4-icon .icon-wrap span {
       font-size: 1.5rem;
       position: absolute;
@@ -1273,14 +1273,14 @@ h1, h2, h3, h4, h5,
   .unit-4 *:last-child {
     margin-bottom: 0; }
   .unit-4:hover {
-    background: #8b8b8b;
+    background: rgb(243, 240, 240);
     -webkit-box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4);
     box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4);
     top: -7px; }
     .unit-4:hover .icon-wrap {
       background-color: #fff; }
       .unit-4:hover .icon-wrap span {
-        color: #8b8b8b !important; }
+        color: rgb(221, 221, 221) !important; }
     .unit-4:hover h3,.unit-4:hover h2 {
       color: #fff; }
     .unit-4:hover p {
