@@ -2525,7 +2525,7 @@ button:hover:before, button:hover:after {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: #b485f3;
+  background-color: #9b55f7;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -2535,7 +2535,7 @@ button:hover:before, button:hover:after {
 }
 
 #myBtn:hover {
-  background-color: rgb(59, 3, 135);
+  background-color: rgb(103, 39, 194);
 }
 
 /*end scroll top*/
