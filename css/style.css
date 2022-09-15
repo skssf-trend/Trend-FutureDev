@@ -1840,7 +1840,7 @@ h1, h2, h3, h4, h5,
 .circle {
   padding: 13px 20px;
   border-radius: 50%;
-  background-color: gray;
+  background-color: rgb(59 3 135);
   color: #fff;
   max-height: 50px;
   z-index: 2;
@@ -1852,7 +1852,7 @@ h1, h2, h3, h4, h5,
 .how-it-works.row .col-2::after {
   content: "";
   position: absolute;
-  border-left: 3px solid gray;
+  border-left: 3px solid #b485f3;
   z-index: 1;
 }
 .how-it-works.row .col-2.bottom::after {
@@ -1876,7 +1876,7 @@ h1, h2, h3, h4, h5,
   height: 40px;
 }
 .timeline hr {
-  border-top: 3px solid black;
+  border-top: 3px solid #b485f3;
   margin: 0;
   top: 17px;
   position: relative;
@@ -1886,7 +1886,7 @@ h1, h2, h3, h4, h5,
   overflow: hidden;
 }
 .timeline .corner {
-  border: 3px solid b;
+  border: 3px solid #b485f3;
   width: 100%;
   position: relative;
   border-radius: 15px;
@@ -2525,7 +2525,7 @@ button:hover:before, button:hover:after {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: rgb(15, 7, 121);
+  background-color: #b485f3;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -2535,7 +2535,7 @@ button:hover:before, button:hover:after {
 }
 
 #myBtn:hover {
-  background-color: rgba(65, 133, 236, 0.87);
+  background-color: rgb(59, 3, 135);
 }
 
 /*end scroll top*/
