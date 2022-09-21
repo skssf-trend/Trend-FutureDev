@@ -3059,3 +3059,28 @@ height: auto;
 z-index: -1;
 
 }
+
+
+
+
+
+.h12 {
+  font-size:25px;
+  font-weight: 50;
+  background: -webkit-linear-gradient(rgb(176 25 137 / 54%), rgb(11 4 74));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  
+}
+
+.h13{
+
+  font-family: 'Anton', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
+
+}
+
