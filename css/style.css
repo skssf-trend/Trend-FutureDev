@@ -3075,7 +3075,9 @@ z-index: -1;
 }
 
 .h13{
-
+  background: -webkit-linear-gradient(hwb(300deg 0% 26%), rgb(3 0 34));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-family: 'Anton', sans-serif;
   font-family: 'Josefin Sans', sans-serif;
   font-family: 'Mochiy Pop P One', sans-serif;
