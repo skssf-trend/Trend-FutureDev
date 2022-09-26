@@ -3141,9 +3141,9 @@ font-family: 'Rajdhani', sans-serif; */
       transition: all 0.3s ease-in-out;
     }
     .a1{
-      font-size:15px;
+      font-size:30px;
       color: #65b5f6;
-      background-color: transparent;
+      background-color: #00d2b5;
       border: 3px solid #65b5f6;
       border-radius: 10px;
       padding: 0 16px;
@@ -3152,6 +3152,18 @@ font-family: 'Rajdhani', sans-serif; */
 
 
     }
+    .a2{
+      font-size:15px;
+      color: #65b5f6;
+      border: 3px solid #bfd9ee;
+      border-radius: 10px;
+      padding: 0 16px;
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+
+
+    }
+    
     
     
       
