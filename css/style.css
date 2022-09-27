@@ -83,11 +83,11 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
   .btn.btn-primary {
     border-width: 2px;
-    background: #089e8a;
-    border-color: #056d5f;
-    color: #fff;
+    background: #00d2b5;
+    border-color: #00d2b5;
+    color:#000;
     -webkit-box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4);
-    box-shadow: 0 4px 20px -5px rgba(55, 155, 142, 0.4); }
+    box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4); }
     .btn.btn-primary:hover {
       background: transparent;
       border-color: #00d2b5;
