@@ -83,15 +83,21 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
   .btn.btn-primary {
     border-width: 2px;
-    background: #00d2b5;
-    border-color: #00d2b5;
+    /* background: #00c79c; */
+    border-color: -webkit-linear-gradient(rgba(168, 198, 199, 0.54), rgba(90, 227, 236, 0.911));
     color:#000;
-    -webkit-box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4);
-    box-shadow: 0 4px 20px -5px rgba(0, 210, 181, 0.4); }
+    -webkit-box-shadow: 0 4px 20px -5px rgba(190, 229, 224, 0.63);
+    box-shadow: 0 4px 20px -5px rgba(255, 255, 255, 0.4); 
+    
+    background: -webkit-linear-gradient(rgba(140, 245, 126, 0.623), rgba(42, 228, 141, 0.877));
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+
+  }
     .btn.btn-primary:hover {
       background: transparent;
-      border-color: #00d2b5;
-      color: #000; }
+      border-color: -webkit-linear-gradient(rgb(125, 247, 252), rgb(0, 247, 255));
+      color: rgb(26, 26, 26); }
 
 .line-height-1 {
   line-height: 1 !important; }
